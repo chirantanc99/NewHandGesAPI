@@ -7,7 +7,7 @@ namespace WebApplicationTest.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
-        
+        //
 
         private readonly ILogger<WeatherForecastController> _logger;
 
